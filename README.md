@@ -22,17 +22,10 @@ Welcome to the GitHub User Search application built with React! 👋
 
 ## Getting Started
 
-1. Clone the repository.
+1. Clone the repository `https://github.com/quickcourse/developer_search.git`.
 2. Install dependencies using `npm install`.
-3. Run the app with `npm start`.
+3. Run the app with `npm run dev`.
 
-## Screenshots
-
-![Search Page](./screenshots/search-page.png)
-*The user-friendly search page allows you to find GitHub users with ease.*
-
-![User Details](./screenshots/user-details.png)
-*Detailed user profiles provide a comprehensive view of GitHub users.*
 
 ## Contributing
 
